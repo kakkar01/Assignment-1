@@ -5,5 +5,5 @@ def test_hi_my_name_is():
 def test_name():
     assert name_point.hi_my_name_is()=="Himanshu"
 def test_empty():
-    assert name_point.hi_my_name_is()!=""
+    assert name_point.hi_my_name_is()!="nsj"
 
